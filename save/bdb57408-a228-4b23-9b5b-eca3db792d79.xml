@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="gb2312"?>
+<LevelModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>bdb57408-a228-4b23-9b5b-eca3db792d79</Id>
+  <Turrets>
+    <Id>54495c24-36cc-4177-9268-5c82a23c4d33</Id>
+    <Id>579dd119-247c-4753-ba52-081c06c24656</Id>
+  </Turrets>
+</LevelModel>

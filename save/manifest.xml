@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Manifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entries>
+    <ModelEntry>
+      <Id>fe4bae49-9056-4761-a6a2-ffb1e1f90e28</Id>
+      <Type>GameModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>bdb57408-a228-4b23-9b5b-eca3db792d79</Id>
+      <Type>LevelModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>54495c24-36cc-4177-9268-5c82a23c4d33</Id>
+      <Type>TurretModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>579dd119-247c-4753-ba52-081c06c24656</Id>
+      <Type>TurretModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>f877a918-ac77-4361-8b3b-0f04fb787f12</Id>
+      <Type>RocketModel</Type>
+    </ModelEntry>
+  </Entries>
+</Manifest>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="gb2312"?>
+<GameModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>fe4bae49-9056-4761-a6a2-ffb1e1f90e28</Id>
+  <Level>
+    <Id>bdb57408-a228-4b23-9b5b-eca3db792d79</Id>
+  </Level>
+  <Rockets>
+    <Id>f877a918-ac77-4361-8b3b-0f04fb787f12</Id>
+  </Rockets>
+</GameModel>
